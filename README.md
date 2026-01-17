@@ -17,4 +17,5 @@ Mark Goodwin is a nationally noted author and expert in personal computer progra
 * Level: Intermediate/Advanced
 * Category: C and C++ Programming
 * Platform: IBM
+* Year: 1992
 
