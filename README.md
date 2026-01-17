@@ -1,6 +1,6 @@
 # Serial Communications in C and C++
 The book includes complete source code in Microsoft C, QuickC, and Turbo C++, plus assembly routines for serial port control—ideal for IBM-compatible PCs running DOS.
-This makes it a practical toolkit for developers working on telecommunications, modem control, protocol implementations (ZMODEM) or terminal emulation projects in the early 1990s PC environment.
+This makes it a practical toolkit for developers working on telecommunications, modem control, protocol implementations (Xmodem, Xmodem-1K, Ymodem, and Ymodem-G) or terminal emulation projects in the early 1990s PC environment.
 # Serial Communications
 Learn serial programming in C and C++ from the ground up. This book teaches you how to write programs that communicate with other computers, terminals, and modems. It’s ideal for telecommunications applications, including high-speed modems. Extensive sample code and a companion disk help you get your programs running quickly and reduce typing errors.
 ## Author: Mark Goodwin
