@@ -10,6 +10,8 @@ Mark Goodwin is a nationally noted author and expert in personal computer progra
 * Programming ANSI terminal emulations
 * Comprehensive information on ROM BIOS routines for serial communications
 * Reference guides for all the functions featured in the book
+## Assembly Code
+The book includes assembly routines used for fast, low‑level serial‑port control. They require MASM or TASM and integrate directly with the C/C++ examples.
 ## Book Details:
 * ISBN: 1-55828-203-3
 * Price: $49.95
