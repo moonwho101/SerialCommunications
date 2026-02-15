@@ -14,6 +14,8 @@ Mark Goodwin is a nationally noted author and expert in personal computer progra
 The book includes assembly routines used for fast, low‑level serial‑port control. They require MASM or TASM and integrate directly with the C/C++ examples.
 ## Book Details:
 * ISBN: 1-55828-203-3
+* ISBN-10: 1558282033
+* ISBN-13: 978-1558282032
 * Price: $49.95
 * Publisher: MIS:Press, a subsidiary of Henry Holt and Co., Inc.
 * Level: Intermediate/Advanced
